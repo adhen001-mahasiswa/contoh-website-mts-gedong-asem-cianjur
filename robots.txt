@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adhen001-mahasiswa.github.io/contoh-website-mts-gedong-asem-cianjur/sitemap.xml
