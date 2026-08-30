@@ -1,0 +1,23 @@
+# Secret / konfigurasi pribadi
+.env
+.env.*
+!.env.example
+
+# Dependency
+node_modules/
+
+# VS Code
+.vscode/
+
+# File sistem
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log
+*.log
+
+# File sementara
+*.bak
+*.tmp
+*.temp
